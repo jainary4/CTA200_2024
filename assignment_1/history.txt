@@ -1,0 +1,460 @@
+    1  pwd
+    2  uptime
+    3  w
+    4  exit
+    5  w
+    6  exit
+    7  pwd
+    8  ls
+    9  exit
+   10  pwd
+   11  exit
+   12  w
+   13  exit
+   14  sh
+   15  exit
+   16  /cita/local/bin/passwd
+   17  exit
+   18  exit
+   19  ls
+   20  cd perl5
+   21  ls
+   22  pwd
+   23  /home/ajain/
+   24  /home/ajain
+   25  cd /home/ajain
+   26  ls -l 
+   27  pwd
+   28  ls
+   29  mkdir cita200
+   30  ls
+   31  cd cita200
+   32  ls
+   33  mkdir lecture_1
+   34  ls
+   35  cd ..
+   36  ls
+   37  cd cita200
+   38  ls
+   39  cd lecture_1
+   40  nano linux_commands.txt
+   41  open linux_commands.txt
+   42  touch linux_commands.txt
+   43  ls
+   44  nano linux_commands.txt
+   45  cat linux_commands.txt
+   46  ls
+   47  vi linux_commands.txt
+   48  ls
+   49  cd cita200
+   50  ls
+   51  ssh ls -l
+   52  ls -l
+   53  cd /
+   54  ls
+   55  cd cita
+   56  ls
+   57  ls -l
+   58  exit
+   59  ls
+   60  cd cita200
+   61  ssh ajain@cosmo1.cita.utoronto.ca
+   62  exot
+   63  exit
+   64  ls
+   65  ls
+   66  exit
+   67  pwd
+   68  ls
+   69  cd cita200
+   70  ls
+   71  ls -l
+   72  ls
+   73  ls -ld
+   74  ls -a
+   75  echo $USER
+   76  whoami
+   77  pwd
+   78  cd /
+   79  ls
+   80  exit
+   81  whoami
+   82  pwd
+   83  cd ~murray
+   84  ls
+   85  pwd
+   86  cd ~ajain
+   87  ls
+   88  echo $0
+   89  cd 
+   90  ls
+   91  cd cita200
+   92  cd /
+   93  ls
+   94  cd cita
+   95  ls
+   96  cd h
+   97  ls
+   98  cd home-1
+   99  ls
+  100  cd home-2
+  101  cd ..
+  102  ls
+  103  cd home-1
+  104  ls
+  105  exot
+  106  exit
+  107  cd
+  108  pwd
+  109  ls
+  110  ls perl5
+  111  ls
+  112  cd perl5
+  113  ls
+  114  pwd
+  115  cd /
+  116  ls
+  117  cd cita
+  118  ls
+  119  ssh calamari.cita.utoronto.ca -l ajain
+  120  ls
+  121  pwd
+  122  cd /mnt/scratch-lusture/ajain
+  123  cd /mnt/scratch-lusture/$USER
+  124  cd /
+  125  ls
+  126  cd mnt
+  127  ls
+  128  cd scratch-lustre/$USER
+  129  cd scratch-lustre
+  130  ls
+  131  cd ajain
+  132  pwd
+  133  mkdir ajain
+  134  mkdir $USER
+  135  mkdir test
+  136  mkdir -p tmp/test
+  137  echo $
+  138  echo $USER
+  139  mkdir --p
+  140  mkdir --help
+  141  clear
+  142  ls
+  143  pwd
+  144  mkdir -p tmp/test
+  145  mkdir -p test2/test
+  146  ls -l
+  147  ls -la
+  148  mkdir -p tmp/test
+  149  mkdir test/test2
+  150  mkdir -p test/test2
+  151  mkdir -p test3/test2
+  152  man mkdir
+  153  ls
+  154  mkdir test
+  155  pwd
+  156  mkdir new
+  157  cd /mnt/scratch-lustre/$USER
+  158  cd ..
+  159  ls
+  160  cd node_scratch
+  161  mkdir test
+  162  mkdir --help
+  163  clear
+  164  pwd 
+  165  cd /
+  166  ls
+  167  cd home
+  168  ls
+  169  cd cta200
+  170  ls
+  171  cd ..
+  172  ls
+  173  cd ..
+  174  ls
+  175  cd mnt
+  176  ls
+  177  cd scratch-lustre/
+  178  ls
+  179  mkdir ajain
+  180  pwd
+  181  cd ..
+  182  ls -la 
+  183  cd fs/lustre/scratch
+  184  cd fs
+  185  ls -la
+  186  cd /
+  187  ls
+  188  cd fs
+  189  ls
+  190  cd lusture
+  191  cd lustre/
+  192  ls
+  193  cd scratch
+  194  ls
+  195  mkdir test
+  196  cd ..
+  197  ls
+  198  mkdir test
+  199  cd /cita/h/home-1
+  200  ls
+  201  CD..
+  202  cd..
+  203  cd ..
+  204  ls
+  205  cd home-2
+  206  ls
+  207  cd ajain
+  208  ls
+  209  cd cita200
+  210  ls
+  211  lecture_1
+  212  cd lecture_1
+  213  mkdir test
+  214  mkdir -p tmp/test
+  215  ls
+  216  pwd
+  217  cd tmp
+  218  ls
+  219  cd ..
+  220  mkdir a b
+  221  ls
+  222  ls -la
+  223  touch b/file-0
+  224  ls b
+  225  pwd
+  226  rmdir a
+  227  ls
+  228  rmdir b
+  229  cd $murray
+  230  ls
+  231  echo #murray
+  232  echo $murray
+  233  pwd
+  234  cd /cita/h/home-2/ajain/cita200/lecture_1
+  235  cd /cita/h/home-2/ajain/cita200/lecture_1/PICTURES
+  236  ls
+  237  pwd
+  238  mkdir /cita/h/home-2/ajain/cita200/lecture_1/PICTURES
+  239  pwd
+  240  cd Pictures
+  241  ls
+  242  cd photos
+  243  cd Photos
+  244  pwd
+  245  cd ..
+  246  cd Photos
+  247  ls
+  248  cp --help
+  249  pwd
+  250  ls
+  251  cp /cita/h/home-1/murray/Photos/151CANON /cita/h/home-2/ajain/cita200/lecture_1
+  252  cd /cit
+  253  ls
+  254  cd /cita/h/home-2/ajain/cita200/lecture_1
+  255  ls
+  256  cd /
+  257  ls
+  258  cd mnt
+  259  ls
+  260  cd scratch-lustre
+  261  ls
+  262  mkdir test
+  263  cd ..
+  264  ls
+  265  ls -la
+  266  cd /fs/lustre/scratch
+  267  ls
+  268  pwd
+  269  cd ..
+  270  ls
+  271  ls -la
+  272  chown ajain scratch
+  273  cd scratch
+  274  ls
+  275  ssh lobster 
+  276  calamari
+  277  ssh calamari
+  278  cd /
+  279  ls
+  280  cd nt
+  281  cd mnt
+  282  ls
+  283  cd scratch-lustre
+  284  ls
+  285  cd ajain
+  286  ls
+  287  mkdir test
+  288  mkdir tmp/test
+  289  ls
+  290  mkdir tmp/new
+  291  mkdir -p tmp/test
+  292  ls
+  293  clear
+  294  ssh calamari
+  295  pwd
+  296  cd /home
+  297  ls
+  298  cd cta200
+  299  ls
+  300  nano perl5
+  301  cd Research
+  302  ls
+  303  nano gauss2d
+  304  cd gauss2d
+  305  ls
+  306  nano gauss2d.cc
+  307  cd ..
+  308  cp -av /home/cta200/Research/gauss2d /mnt/scratch-lustre/ajain/gauss2d
+  309  cd /mnt/scratch-lustre/ajain
+  310  l
+  311  ls
+  312  clear
+  313  cd gauss2d
+  314  ls
+  315  nano plot.py
+  316  nano gauss2d.cc
+  317  clear
+  318  ssh calamari
+  319  cd /home/ajain
+  320  ls
+  321  cd /mnt/scratch-lustre/ajain/gauss2d
+  322  ls
+  323  nano gauss2d.cc
+  324  nano gauss2d.py
+  325  ls
+  326  nano Makefile
+  327  ssh calamari
+  328  pwd
+  329  cd /
+  330  ls
+  331  cd mnt
+  332  ls
+  333  cd scratch-lustre/
+  334  ls
+  335  cd ajain
+  336  ls
+  337  cd gauss2d
+  338  ls
+  339  nano plot.py
+  340  clear
+  341  cd /
+  342  ls
+  343  cd mnt
+  344  ls
+  345  cd scratch-lustre
+  346  ls
+  347  ssh calamari
+  348  cd /
+  349  cd mnt
+  350  ls
+  351  cd scratch-lustre
+  352  ls
+  353  cd ajain
+  354  ls
+  355  cd gauss2d
+  356  less gauss2d.cc
+  357  clear
+  358  ls
+  359  cat Makefile
+  360  clear
+  361  vim plot.py
+  362  ssh calamari
+  363  man gcc
+  364  cd /
+  365  ls
+  366  cd mnt
+  367  cd scratch-lustre
+  368  cd cta200
+  369  ls
+  370  cd tmp
+  371  ls
+  372  cd ..
+  373  cd tmp /mnt/scratch-lustre/ajain
+  374  cp tmp /mnt/scratch-lustre/ajain
+  375  cp -r tmp /mnt/scratch-lustre/ajain
+  376  cd /mnt/scratch-lustre/ajain
+  377  ls
+  378  python
+  379  module
+  380  modul avail
+  381  module load python
+  382  python
+  383  clear
+  384  module list
+  385  module avail
+  386  clear
+  387  ls
+  388  cd ..
+  389  pwd
+  390  mkdir CITA200_2024
+  391  cd /
+  392  ls
+  393  cd home
+  394  ls
+  395  cd ajain
+  396  ls
+  397  mkdir CITA200_2024
+  398  ls
+  399  cd CITA200_2024
+  400  mkdir assignment_1
+  401  ssh server
+  402  ls
+  403  touch README.md
+  404  vi README.md
+  405  cd /home/ajain
+  406  ls
+  407  cd CITA200_2024/
+  408  LS
+  409  ls
+  410  less README.md 
+  411  rm README.md
+  412  ls
+  413  cd assignment_1/
+  414  ls
+  415  touch README.md
+  416  nanao README.md
+  417  nano README.md
+  418  cd /home/murray
+  419  ;s
+  420  ls
+  421  man cpo
+  422  man cp
+  423  cp Hello_world.c Hello_world.py /home/ajain/CITA200_2024/assignment_1
+  424  cd CITA200_2024
+  425  cd /home/ajain/CITA200_2024
+  426  ls
+  427  cd assignment_1/
+  428  ls
+  429  cd ..
+  430  ls
+  431  cd ..
+  432  ls
+  433  mv CITA200_2024 CTA200_2024
+  434  LS
+  435  ls
+  436  cd CTA200_2024
+  437  ls
+  438  cd assignment_1
+  439  ls
+  440  mv Hello_world.c Hello_world_jain.c
+  441  mv Hello_world.py Hello_world_jain.py
+  442  ls
+  443  module avail
+  444  module load gcc
+  445  man gcc
+  446  gcc Hello_world_jain.c Hello_world.x
+  447  gcc -o Hello_world.x Hello_world_jain.c
+  448  ./Hello_world.x
+  449  module load python
+  450  python ./Hello_world_jain.py
+  451  nano Hello_world_jain.py
+  452  nano Hello_world_jain.c
+  453  gcc -o Hello_world.x  Hello_world_jain.c
+  454  touch output_c.txt
+  455  ./Hello_world.x | tee output_c.txt
+  456  less output_c.txt 
+  457  touch output_python.txt
+  458  python ./Hello_world_jain.py | tee output_python.txt
+  459  touch history.txt
+  460  history | tee history.txt
